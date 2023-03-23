@@ -19,7 +19,8 @@ body{
     overflow-y: hidden;
 }
 .force{
-    background-color: green;
+    background-color: white;
+    box-shadow: 0 0 25px rgb(255,0,0);
     filter: blur(5px);
     border-radius: 25px;
     transform: rotate(-45deg);
@@ -62,7 +63,8 @@ body{
     }
 }
 .obscure{
-    background-color: red;
+    background-color: white;
+    box-shadow: 0 0 25px rgb(255,0,0);
     filter: blur(5px);
     border-radius: 25px;
     transform: rotate(45deg);

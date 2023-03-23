@@ -17,3 +17,11 @@ scss for the style of the page.
 
 
 it's all.
+
+for view my work you can visit :
+
+https://nerdsnet.pnerds.fr/entrainement.html
+
+My portfolio : 
+
+https://nerdsnet.pnerds.fr/portfolio.html

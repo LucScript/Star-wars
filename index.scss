@@ -1,0 +1,138 @@
+.logo{
+    margin-top: -50px;
+    margin-left: 770px;
+    width: 350px;
+    animation: starwars forwards 1s 0s ease;
+}
+@keyframes starwars {
+    from{
+        filter: blur(10px);
+        transform: translateX(-155px);
+    }
+    to{
+        filter: none;
+        transform: translateX(10px);
+    }
+}
+body{
+    background-image: url("https://wallpaperaccess.com/full/2151904.jpg");
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.force{
+    background-color: green;
+    filter: blur(5px);
+    border-radius: 25px;
+    transform: rotate(-45deg);
+    margin-left: -250px;
+    width: 50%;
+    margin-top: 250px;
+    animation: laser 2s 0s ease;
+}
+@keyframes laser {
+    from{
+        width: 0%;
+    }
+    to{
+        width: 50%;
+    }
+}
+.force h1{
+    visibility: hidden;
+}
+.basforce{
+    background-color: black;
+    transform: rotate(-45deg);
+    margin-left: -210px;
+    border-radius: 25px;
+    width: 300px;
+    height: 50px;
+    border: 3px solid white;
+    margin-top: 250px;
+    animation: baslaser 2s 0s ease;
+}
+.basforce h1{
+    visibility: hidden;
+}
+@keyframes baslaser {
+    from{
+        width: 0px;
+    }
+    to{
+        width: 300px;
+    }
+}
+.obscure{
+    background-color: red;
+    filter: blur(5px);
+    border-radius: 25px;
+    transform: rotate(45deg);
+    float: right;
+    height: 40px;
+    width: 50%;
+    margin-top: -300px;
+    margin-right: -200px;
+    animation: laser 2s 0s ease;
+}
+@keyframes laser {
+    from{
+        width: 0%;
+    }
+    to{
+        width: 50%;
+    }
+}
+.obscure h1{
+    visibility: hidden;
+}
+.basobscure{
+    background-color: black;
+    transform: rotate(45deg);
+    margin-left: 210px;
+    border-radius: 25px;
+    width: 380px;
+    height: 50px;
+    border: 3px solid white;
+    margin-bottom: 10px;
+    margin-right: -200px;
+    animation: baslasero 2s 0s ease;
+    float: right;
+}
+.basobscure h1{
+    visibility: hidden;
+}
+@keyframes baslasero {
+    from{
+        width: 0px;
+    }
+    to{
+        width: 380px;
+    }
+}
+.resumer{
+    color: yellow;
+    font-family: verdana;
+    display: table;
+    width: 950px;
+    margin-left: 450px;
+    margin-top: -550px;
+    position: fixed;
+    font-size: 10px;
+    animation: floating forwards 2s 0s ease;
+}
+@keyframes floating {
+    from{
+        transform: translateY(35px);
+    }
+    to{
+        transform: translateY(-35px);
+    }
+}
+::selection{
+    background: yellow;
+    color: black;
+}
+::-webkit-scrollbar{
+    background: yellow;
+    border-radius: 25px;
+}

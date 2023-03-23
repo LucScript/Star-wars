@@ -29,3 +29,9 @@ https://nerdsnet.pnerds.fr/portfolio.html
 My magic green laser effect is this code : 
 
     box-shadow: 0 0 25px rgb(000,255,000);
+
+And for red laser effect :
+
+    box-shadow: 0 0 25px rgb(255,000,000);
+
+

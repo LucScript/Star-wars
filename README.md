@@ -25,3 +25,7 @@ https://nerdsnet.pnerds.fr/entrainement.html
 My portfolio : 
 
 https://nerdsnet.pnerds.fr/portfolio.html
+
+My magic green laser effect is this code : 
+
+    box-shadow: 0 0 25px rgb(000,255,000);

@@ -20,11 +20,11 @@ it's all.
 
 for view my work you can visit :
 
-https://nerdsnet.pnerds.fr/entrainement.html
+https://nerdsnet.pnerds.fr/portfolio/starwars.html
 
 My portfolio : 
 
-https://nerdsnet.pnerds.fr/portfolio.html
+https://lucaspoupeau.vincz.fr
 
 My magic green laser effect is this code : 
 

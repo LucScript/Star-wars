@@ -35,5 +35,3 @@ And for red laser effect :
     box-shadow: 0 0 25px rgb(255,000,000);
 
 Thanks
-
-

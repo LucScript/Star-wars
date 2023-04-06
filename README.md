@@ -5,7 +5,7 @@ Star wars UI for computer (not responsive)
 
 I make this challenge for train me and learn more about coding
 
-Langage used are :
+Langage was used are :
 
 html for the architecture of the page.
 

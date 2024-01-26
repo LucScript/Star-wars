@@ -1,4 +1,4 @@
-# Star Wars Chalenge
+# Star Wars
 Star wars UI for computer (not responsive)
 
 ![download](https://user-images.githubusercontent.com/126067396/227186221-195d3dfe-3634-4314-85be-54c410c31545.png)
